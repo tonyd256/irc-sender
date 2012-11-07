@@ -2,7 +2,7 @@
   "name": "irc-sender",
   "preferGlobal": "true",
   "version": "0.0.1",
-  "author": "Tony <anthony@evertrue.com>",
+  "author": "Tony <anthony.r.dipasquale+npm@gmail.com>",
   "description": "a command to send a message to a irc channel",
   "contributors": [],
   "bin": {
@@ -11,7 +11,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/evertrue/labs.git"
+    "url": "https://github.com/tonyd256/irc-sender.git"
   },
   "keywords": [
     "cli",
