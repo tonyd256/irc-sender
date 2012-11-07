@@ -1,0 +1,28 @@
+{
+  "name": "irc-sender",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Tony <anthony@evertrue.com>",
+  "description": "a command to send a message to a irc channel",
+  "contributors": [],
+  "bin": {
+    "irc-send": "./main.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evertrue/labs.git"
+  },
+  "keywords": [
+    "cli",
+    "irc"
+  ],
+  "dependencies": {
+    "commander": "~1.0.5",
+    "irc": "~0.3.4"
+  },
+  "analyze": false,
+  "engines": {
+    "node": ">=0.8"
+  }
+}
