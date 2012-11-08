@@ -1,7 +1,7 @@
 {
   "name": "irc-sender",
   "preferGlobal": "true",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tony <anthony.r.dipasquale+npm@gmail.com>",
   "description": "a command to send a message to a irc channel",
   "contributors": [],
